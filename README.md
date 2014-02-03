@@ -9,6 +9,7 @@ Please feel free to extend the list by forking and sending a pull request.
 Full Applications
 -----------------
 
+- [TextEdit](https://developer.apple.com/library/mac/samplecode/TextEdit/Introduction/Intro.html)
 - [OmniGraphSketcher](https://github.com/graphsketcher/GraphSketcher) - Make elegant looking graphs in seconds
 - [Seashore](http://sourceforge.net/p/seashore/code/HEAD/tree/) - Image editor which features advanced tools like multiple layers and alpha channel editing
 - [Paintbrush](http://sourceforge.net/p/paintbrush/code/HEAD/tree/Paintbrush2/branches/) - Cocoa-based paint program, similar to Microsoft Paint
