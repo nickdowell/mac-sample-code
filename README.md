@@ -17,6 +17,7 @@ Full Applications
 - [Burn](http://sourceforge.net/p/burn-osx/code/HEAD/tree/) - Disc burning
 - [Adium](https://hg.adium.im/adium) - Instant Messaging
 - [Cheddar for Mac](https://github.com/nothingmagical/cheddar-mac) - a simple & instant task manager
+- [Hacky](https://github.com/eliaskg/Hacky) - browse Hacker News in a clean and minimalistic way
 
 
 Sample Code
