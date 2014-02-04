@@ -16,6 +16,7 @@ Full Applications
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - iTunes for retro gaming
 - [Burn](http://sourceforge.net/p/burn-osx/code/HEAD/tree/) - Disc burning
 - [Adium](https://hg.adium.im/adium) - Instant Messaging
+- [Cheddar for Mac](https://github.com/nothingmagical/cheddar-mac) - a simple & instant task manager
 
 
 Sample Code
