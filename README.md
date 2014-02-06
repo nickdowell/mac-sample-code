@@ -28,4 +28,5 @@ Sample Code
 Libraries
 ---------
 
+- [Rebel](https://github.com/github/Rebel) - a framework to make AppKit easier to work with, made by github
 - [JUInspectorView](https://github.com/JustSid/JUInspectorView) - a shameless copy of Xcode 5's inspector views
