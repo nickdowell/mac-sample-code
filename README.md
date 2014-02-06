@@ -18,6 +18,7 @@ Full Applications
 - [Adium](https://hg.adium.im/adium) - Instant Messaging
 - [Cheddar for Mac](https://github.com/nothingmagical/cheddar-mac) - a simple & instant task manager
 - [Hacky](https://github.com/eliaskg/Hacky) - browse Hacker News in a clean and minimalistic way
+- [Bean](http://www.bean-osx.com/source/Bean-Source.zip) - a word processor
 
 
 Sample Code
