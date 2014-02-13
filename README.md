@@ -20,6 +20,7 @@ Full Applications
 - [Hacky](https://github.com/eliaskg/Hacky) - browse Hacker News in a clean and minimalistic way
 - [Bean](http://www.bean-osx.com/source/Bean-Source.zip) - a word processor
 - [GitX](https://github.com/rowanj/gitx) - need you ask?
+- [Pinna](https://github.com/decarbonization/player) - an elegant, iOS-style music player
 
 
 Sample Code
