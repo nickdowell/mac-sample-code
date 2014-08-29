@@ -21,6 +21,7 @@ Full Applications
 - [Bean](http://www.bean-osx.com/source/Bean-Source.zip) - a word processor
 - [GitX](https://github.com/rowanj/gitx) - need you ask?
 - [Pinna](https://github.com/decarbonization/player) - an elegant, iOS-style music player
+- [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor)
 
 
 Sample Code
