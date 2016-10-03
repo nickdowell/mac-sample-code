@@ -14,6 +14,7 @@ Full Applications
 - [Seashore](http://sourceforge.net/p/seashore/code/HEAD/tree/) - Image editor which features advanced tools like multiple layers and alpha channel editing
 - [Paintbrush](http://sourceforge.net/p/paintbrush/code/HEAD/tree/Paintbrush2/branches/) - Cocoa-based paint program, similar to Microsoft Paint
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - iTunes for retro gaming
+- [iPulse](https://github.com/chockenberry/iPulse) - Graphically displays the inner workings of OS X
 - [Burn](http://sourceforge.net/p/burn-osx/code/HEAD/tree/) - Disc burning
 - [Adium](https://hg.adium.im/adium) - Instant Messaging
 - [Cheddar for Mac](https://github.com/nothingmagical/cheddar-mac) - a simple & instant task manager
