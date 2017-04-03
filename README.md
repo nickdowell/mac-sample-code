@@ -23,6 +23,7 @@ Full Applications
 - [GitX](https://github.com/rowanj/gitx) - need you ask?
 - [Pinna](https://github.com/decarbonization/player) - an elegant, iOS-style music player
 - [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor)
+- [Facebook Messenger for Mac](https://github.com/rsms/fb-mac-messenger)
 
 
 Sample Code
