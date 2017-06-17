@@ -25,6 +25,7 @@ Full Applications
 - [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor)
 - [Facebook Messenger for Mac](https://github.com/rsms/fb-mac-messenger)
 - [The unofficial WWDC app for macOS](https://github.com/insidegui/WWDC)
+- [macSVG](https://github.com/dsward2/macSVG) - An open-source macOS app for designing HTML5 SVG art and animation
 
 
 Sample Code
